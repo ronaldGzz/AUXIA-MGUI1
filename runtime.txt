@@ -1,2 +1,1 @@
-# AUXIA-MGUI1
-cdscriptmaker
+python-3.11.9
